@@ -1,5 +1,4 @@
 # job10
-job10test
 package sample.java.project;
 
 import static org.junit.Assert.assertEquals;
